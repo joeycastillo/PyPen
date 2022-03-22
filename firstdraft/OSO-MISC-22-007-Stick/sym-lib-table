@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "GD25Q16CEIGR")(type "Legacy")(uri "${KIPRJMOD}/SPI_Flash.pretty/GD25Q16CEIGR.lib")(options "")(descr ""))
+)

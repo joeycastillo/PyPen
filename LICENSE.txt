@@ -1,0 +1,5 @@
+Any software that gets written is MIT licensed.
+
+All hardware files are CC-BY-SA 4.0.
+
+No warranty is expressed or implied.

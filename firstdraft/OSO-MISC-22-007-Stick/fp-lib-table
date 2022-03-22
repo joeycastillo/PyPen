@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Coin_Cell")(type "KiCad")(uri "${KIPRJMOD}/Coin_Cell.pretty")(options "")(descr ""))
+  (lib (name "SPI_Flash")(type "KiCad")(uri "${KIPRJMOD}/SPI_Flash.pretty")(options "")(descr ""))
+)
